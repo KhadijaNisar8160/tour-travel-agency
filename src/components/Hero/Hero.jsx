@@ -70,7 +70,7 @@ const Hero = () => {
     // Do something with the search data (like submitting to Firestore)
     toast.success("Search submitted!");
   };
-  console.log(destinations);
+  // console.log(destinations);
 
   return (
     <div className="bg-black/20 h-full w-full">
